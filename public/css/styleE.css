@@ -1,0 +1,152 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  }
+
+h1 {
+    margin: 0;
+  }
+  
+  .font-amarillo {
+    color: #EAC926;
+  }
+  .bg-amarillo {
+    background-color: #EAC926;
+  }
+  .font-azul {
+    color: #03264c;
+  }
+  .bg-azul {
+    background-color: #03264c;
+  }
+  
+  .font-celeste {
+    color: #1259c3;
+  }
+  .bg-celeste {
+    background-color: #1259c3;
+  }
+  
+  .font-gris-oscuro {
+    color: #666;
+  }
+  .bg-gris-oscuro {
+    background-color: #666;
+  }
+  
+  .font-gris-claro {
+    color: #ebebeb;
+  }
+  .bg-gris-claro {
+    background-color: #ebebeb;
+  }
+  .font-verde {
+    color: #39b54a;
+  }
+  .bg-verde {
+    background-color: #39b54a;
+  }
+  .font-blanco{
+      color:#ebebeb
+  }
+  .bg-blanco {
+    background-color: white;
+  }
+
+  body {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+  }
+  .font-titulares {
+    font-size: 24px;
+  }
+  .font-precio {
+    font-size: 18px;
+  }
+  
+  .font-descuentos {
+    font-size: 16px;
+  }
+  .font-descripciones{
+    font-size: 16px;
+  }
+  
+  .nav-section {
+    padding: 0;
+  }
+  
+  .nav-section li a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .nav-section li {
+    list-style: none;
+  }
+  
+  .burger-menu {
+    text-align: center;
+  }
+  
+  .burger-menu i {
+    padding: 8px;
+    background-color: #1259c3;
+    color: #ebebeb;
+    border-radius: 5px;
+
+  }
+
+  
+  .icono-footer{
+    padding: 4px;
+    width: 30px;
+    height: 30px;
+    font-size: 2em;
+    margin-bottom: 10px;
+    transition: color 1s;
+
+  }
+
+  .icono-footer:hover {
+    color:#EAC926;
+  }
+
+  .product {
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+  }
+  .texto-centro{
+      text-align: center;
+  }
+
+  .boton{
+    border-radius: 2px;
+    width: 100%;
+  }
+  .boton-enviar {
+    border-radius: 2px;
+    width: 100%;
+    color: white;
+    background-color: #1259c3;
+    text-align:center;
+    text-decoration: none
+  }
+  .contaneirflex{
+    display: flex;
+  }
+  .grow70{
+    flex-grow: 0.3;
+  }
+  .mitad{
+    width: 50%;
+  }
+  .centrah{
+    align-items: center;
+  }
+.mb {
+  margin-bottom: 5%;
+}
+mtext {
+  margin: 10%;
+  padding: 10%;
+}
