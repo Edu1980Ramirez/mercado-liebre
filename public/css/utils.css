@@ -9,6 +9,19 @@
     width: 100%;
     font-weight: bold;
 }
+.formulario > .input-con-button > input {
+    padding: 4px;
+    flex-grow: 1;
+    border: none;
+    width: 100%;
+}
+.formulario > .input-con-button > .input-button {
+    padding: 4px;
+    border: none;
+    margin-left: 2px;
+    background-color: white;
+}
+
 
 .acceso {
     display: none;
